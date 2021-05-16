@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi Guys :wave:
+
+## About Me : 
+*I am from :brazil: , i am 15 years old (I will be 16 in July ) and I like technology since I was a child, I always said: “One day I would learn to program” and today I am learning, with more clarity and dedication.*
+## My Networks :
+
+
+
+
 
 <!--
 **LuanThierry/LuanThierry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
