@@ -1,7 +1,9 @@
 ### Hi Guys :wave:
 
 ## Luan Thierry
-My desire to reach all potential is progress, to be successful is one more reason to grow and conquer.
+*My desire to reach all potential is progress, to be successful is one more reason to grow and conquer*:rose:
+
+**always looking for something new**:books:
 
 ## my skills:
 
