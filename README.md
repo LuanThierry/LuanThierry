@@ -1,8 +1,9 @@
 ## Hi Guys :wave:
 
-## About Me : 
+### About Me : 
 *I am from :brazil: , i am 15 years old (I will be 16 in July ) and I like technology since I was a child, I always said: “One day I would learn to program” and today I am learning, with more clarity and dedication.*
-## My Networks :
+*I'm on my cell phone for now because I don't have a computer yet.*
+### My Networks :
 
 
 
@@ -20,5 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... 
