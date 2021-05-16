@@ -1,6 +1,8 @@
 ### Hi Guys :wave:
 
 ## Luan Thierry
+My desire to reach all potential is progress, to be successful is one more reason to grow and conquer.
+
 ## my skills:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"></img>
