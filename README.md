@@ -1,9 +1,11 @@
 ### hello visitor:ghost:
 
 ## Luan Thierry
-*My desire to reach all potential is progress, to be successful is one more reason to grow and conquer*:rose:
+:rose:*My desire to reach all potential is progress, to be successful is one more reason to grow and conquer*:trophy:
 
-:books:**always looking for something new**:books:
+:books:**always looking for something new**
+
+:smile:why programming?
 
 ### connect with me:
  
