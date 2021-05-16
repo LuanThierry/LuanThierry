@@ -1,6 +1,6 @@
 ### hello visitor:ghost:
 
-## Luan Thierry
+## Luan Thierry O. Marques
 :rose:*My desire to reach all potential is progress, to be successful is one more reason to grow and conquer*:trophy:
 
 :books:**always looking for something new**
