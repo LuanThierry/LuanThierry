@@ -32,6 +32,7 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge-square&logo=python)<br>
+<br>
 ![C](https://img.shields.io/badge/-c-181717?style=for-the-badge-square&logo=c)
 
 
