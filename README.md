@@ -28,7 +28,7 @@
  
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-Clang-blue?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
 
 
 ![Thierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
