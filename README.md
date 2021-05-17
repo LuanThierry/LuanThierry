@@ -6,7 +6,7 @@
 :books:**always looking for something new**
 
 :smile:why programming?
->Why programming?  To program is to devise a way to do such program!  
+>To program is to devise a way to do such program!  
 >Encourages you to practice creativity and bring your thoughts to life!
 
 ### connect with me:
@@ -28,7 +28,7 @@
  
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-c-blue?style=flat-square&logo=c)
 
 
 ![Thierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
