@@ -23,6 +23,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=for-the-badge-square&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-181717?style=for-the-badge-square&logo=bash)
 ![Shell](https://img.shields.io/badge/-Shell-181717?style=for-the-badge-square&logo=shell)
+![Markdown](https://img.shields.io/badge/-Markdown-181717?style=for-the-badge-square&logo=markdown)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-square&logo=html5&logoColor=white)
