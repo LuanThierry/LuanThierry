@@ -11,7 +11,6 @@
 :sleepy:what do I do in my free time?
 
 ### connect with me:
-<a href="https://www.facebook.com/luan.thierry.58">![Facebook](https://img.shields.io/badge/-Facebook-blue?style=social-square&amp;labelColor=blue&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/luan.thierry.58)</a>
 <a href="https://www.linkedin.com/in/luan-thierry-06a790202">![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=social-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)</a>
 <a href="https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw">![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=social-square&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw)</a>
 <a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-purple?style=social-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a>
