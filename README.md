@@ -8,6 +8,8 @@
 :smile:why do I like to program?
 >because in programming I can invent a way to bring my thoughts to life, it encourages me to practice every day and improve my skills as a developer, to always want to know more about what I see and hear.  And also because there are many interesting things like the languages, the developer communities and the programs that are created by them, all of this is amazing! If you don't like programming, something very interesting is missing in your head!
 
+:sleepy:what do I do in my free time?
+
 ### connect with me:
 <a href="https://www.facebook.com/luan.thierry.58">![Facebook](https://img.shields.io/badge/-Facebook-blue?style=social-square&amp;labelColor=blue&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/luan.thierry.58)</a>
 <a href="https://www.linkedin.com/in/luan-thierry-06a790202">![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=social-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)</a>
