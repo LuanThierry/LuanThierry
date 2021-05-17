@@ -23,8 +23,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge-square&logo=javascript)
 
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge-square&logo=python)
-![C](https://img.shields.io/badge/-c-181717?style=for-the-badge-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge-square&logo=python)
+![C](https://img.shields.io/badge/-c-gray?style=for-the-badge-square&logo=c)
 
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge-square&logo=github)
