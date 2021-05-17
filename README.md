@@ -28,8 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
  
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-c-blue?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-c-181717?style=flat-square&logo=c)
 
 
 ![Thierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
