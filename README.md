@@ -6,7 +6,10 @@
 :books:**always looking for something new**
 
 :smile:why programming?
->to program is to improve logic is to devise a way to make such a program work!
+>Why programming?  To program is to devise a way to do such program!  
+>Encourages you to practice creativity and bring your thoughts to life!
+
+
 
 ### connect with me:
 <a href=" tager="_blank"></a>
