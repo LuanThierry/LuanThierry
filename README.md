@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/luan-thierry-06a790202">![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)</a>
 <a href="https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw">![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw)</a>
 <a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a>
+<a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a>
+
 
 ### technologies under study:
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
