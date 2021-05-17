@@ -11,6 +11,8 @@
 
 ### connect with me:
 ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)
+![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)<br>
+
 
 ### technologies under study:
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
