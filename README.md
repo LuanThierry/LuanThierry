@@ -31,8 +31,7 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-green?style=for-the-badge-square&logo=jquery)
 
 
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge-square&logo=python)<br>
-<br>
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge-square&logo=python)
 ![C](https://img.shields.io/badge/-c-181717?style=for-the-badge-square&logo=c)
 
 
