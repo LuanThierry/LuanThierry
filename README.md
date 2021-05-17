@@ -10,29 +10,29 @@
 >Encourages you to practice creativity and bring your thoughts to life!
 
 ### connect with me:
-<a href="https://www.facebook.com/luan.thierry.58">![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&amp;labelColor=blue&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/luan.thierry.58)</a>
-<a href="https://www.linkedin.com/in/luan-thierry-06a790202">![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)</a>
-<a href="https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw">![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw)</a>
-<a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a>
-<a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a>
+<a href="https://www.facebook.com/luan.thierry.58">![Facebook](https://img.shields.io/badge/-Facebook-blue?style=social-square&amp;labelColor=blue&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/luan.thierry.58)</a>
+<a href="https://www.linkedin.com/in/luan-thierry-06a790202">![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=social-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)</a>
+<a href="https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw">![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=social-square&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://youtube.com/channel/UCPeCKUyYMgFix5a32MBCBLw)</a>
+<a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-purple?style=social-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a>
+<a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=social-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a>
 
 
 ### technologies under study:
-![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=bash)
-![Shell](https://img.shields.io/badge/-Shell-181717?style=flat-square&logo=shell)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-181717?style=for-the-badge-square&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-181717?style=for-the-badge-square&logo=bash)
+![Shell](https://img.shields.io/badge/-Shell-181717?style=for-the-badge-square&logo=shell)
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Jquery](https://img.shields.io/badge/-Jquery-green?style=flat-square&logo=jquery)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge-square&logo=javascript)
+![Jquery](https://img.shields.io/badge/-Jquery-green?style=for-the-badge-square&logo=jquery)
 
 
-![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-c-181717?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge-square&logo=python)
+![C](https://img.shields.io/badge/-c-181717?style=for-the-badge-square&logo=c)
 
 
 ##
