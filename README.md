@@ -14,7 +14,7 @@
 >because in programming I can invent a way to bring my thoughts to life, it encourages me to practice every day and improve my skills as a developer, to always want to know more about what I see and hear.  And also because there are many interesting things like the languages, the developer communities and the programs that are created by them, all of this is amazing! If you don't like programming, something very interesting is missing in your head!
 
 :sleepy:what do I do in my free time?
-
+>in my free time i like to read, i love books where i learn something, i don't go out so much so i keep playing video games and playing with my cat.
 
 ### technologies under study:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-square&logo=html5&logoColor=white)
