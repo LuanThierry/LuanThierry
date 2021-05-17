@@ -34,7 +34,7 @@
 
 ##
 
-![Thierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
+![Thierry GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
 
 
 <!--
