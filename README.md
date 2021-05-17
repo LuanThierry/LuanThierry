@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=bash)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
