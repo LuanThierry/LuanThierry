@@ -11,8 +11,7 @@
 
 ### connect with me:
 ##
-
-
+![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)
 
 ### technologies under study:
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
