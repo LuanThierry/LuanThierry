@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
  
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-c-blue?style=flat-square&logo=c)
 
 
