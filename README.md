@@ -14,13 +14,12 @@
 
 
 
-
 ### technologies in learning:
-##
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=bash)
+![Shell](https://img.shields.io/badge/-Shell-181717?style=flat-square&logo=shell)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,6 +30,7 @@
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-c-181717?style=flat-square&logo=c)
 
+##
 
 ![Thierry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
 
