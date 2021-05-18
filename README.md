@@ -16,7 +16,7 @@
 :sleepy:what do I do in my free time?
 >in my free time i like to read, i love books where i learn something, i don't go out so much so i keep playing video games and playing with my cat.
 
-### the programming languages ​​that I use and practice the most are c, javascript and python. I like the front end and I want to become a computer scientist.
+#### the programming languages ​​that I use and practice the most are c, javascript and python. I like the front end and I want to become a computer scientist.
 
 ### technologies under study:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-square&logo=html5&logoColor=white)
