@@ -32,15 +32,16 @@
 ![Shell](https://img.shields.io/badge/-Shell-181717?style=for-the-badge-square&logo=shell)
 ![Markdown](https://img.shields.io/badge/-Markdown-181717?style=for-the-badge-square&logo=markdown)
 
-##
+<hr />
 
 ![Thierry GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
 
 
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&theme=material-palenight" alt="LuanThierry" />
-</p>
-
+<br>
+<br>
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuanThierry" alt="LuanThierry" /> </p>
 
 <!--
