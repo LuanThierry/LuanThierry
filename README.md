@@ -1,23 +1,22 @@
 ### hello visitor:ghost:
 
 ## Luan Thierry O. Marques
-<a href="https://www.linkedin.com/in/luan-thierry-06a790202">![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=social-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luan-thierry-06a790202)</a>
-<a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=social-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a>
+<a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-FF3E96?style=social-square&labelColor=FF34B3&logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a>
 <a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=social-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a>
 
-:rose:*My desire to reach all potential is progress, to be successful is one more reason to grow and conquer*:trophy:
+:rose:Meu desejo de alcançar todo o potencial é o progresso, ser bem sucedido é mais uma razão para crescer e conquistar:trophy:.
 
-:books:**always looking for something new**
+:books:**Sempre procurando por algo novo!!!**
 
-:smile:why do I like to program?
->because in programming I can invent a way to bring my thoughts to life, it encourages me to practice every day and improve my skills as a developer, to always want to know more about what I see and hear.  And also because there are many interesting things like the languages, the developer communities and the programs that are created by them, all of this is amazing! If you don't like programming, something very interesting is missing in your head!
+:smile:Por que eu gosto de programar?
+>Porque na programação eu posso inventar uma maneira de trazer meus pensamentos à vida, isso me incentiva a praticar todos os dias e a melhorar minhas habilidades como desenvolvedor, pra sempre querer saber mais sobre o que vejo e ouço. E também porque há muitas coisas interessantes como as linguagens, as comunidades de desenvolvedores e os programas que são criados, tudo isso é incrível! Se você não gosta de programação, algo muito legal está faltando na sua cabeça!
 
-:sleepy:what do I do in my free time?
->in my free time i like to read, i love books where i learn something, i don't go out so much so i keep playing video games and playing with my cat.
 
-#### the programming languages ​​that I use and practice the most are c, javascript and python. I like the front end and I want to become a computer scientist.
+:sleepy:O que gosto de faer em meu tempo livre?
+>No meu tempo livre eu gosto de ler, eu adoro livros onde eu aprenda alguma coisa, eu não saio tanto assim então fico brincando com meu gato.
 
-### technologies under study:
+#### as linguagens de programação que eu uso e pratico mais são C, JavaScript e Python. Gosto de front-end, back-end e quando crescer quero ser Cientista da computação
+### tecnologias que eu ando estudando:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge-square&logo=javascript)
