@@ -12,7 +12,7 @@
 >Porque na programação eu posso inventar uma maneira de trazer meus pensamentos à vida, isso me incentiva a praticar todos os dias e a melhorar minhas habilidades como desenvolvedor, pra sempre querer saber mais sobre o que vejo e ouço. E também porque há muitas coisas interessantes como as linguagens, as comunidades de desenvolvedores e os programas que são criados, tudo isso é incrível! Se você não gosta de programação, algo muito legal está faltando na sua cabeça!
 
 
-:sleepy:O que gosto de faer em meu tempo livre?
+:sleepy:O que gosto de fazer em meu tempo livre?
 >No meu tempo livre eu gosto de ler, eu adoro livros onde eu aprenda alguma coisa, eu não saio tanto assim então fico brincando com meu gato.
 
 #### as linguagens de programação que eu uso e pratico mais são C, JavaScript e Python. Gosto de front-end, back-end e quando crescer quero ser Cientista da computação
