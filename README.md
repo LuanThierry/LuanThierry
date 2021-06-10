@@ -25,9 +25,11 @@
 > 
 >## :sleepy:Oque gosto?
 >>***Eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando, faço parkour também e gosto de kung fu. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
-> <br>
-> <br>
->
+
+<br>
+<br>
+<br>
+
 >## :panda_face:Sobre:
 >>***aniversário 2/7/2005, <br>Solteiro, <br>SP-zl, <br>Student, <br>Front-End : UX and UI design, HTML, CSS, Bootstrap, <br>Back-End : Javascript, PhP, <br>C and Python.***
 <br>
