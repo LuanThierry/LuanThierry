@@ -23,25 +23,31 @@
 > <br>
 > <br>
 > 
->## :sleepy:O que faço em meu tempo livre?
->>***Em meu tempo livre eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
+>## :sleepy:Oque gosto?
+>>***Eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando, faço parkour também e gosto de kung fu. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
 > <br>
 > <br>
-> 
->##
+>
+>## :panda_face:Sobre:
+>>***aniversário 2/7/2005, <br>Solteiro, <br>SP-zl, <br>Student, <br>Front-End : UX and UI design, HTML, CSS, Bootstrap, <br>Back-End : Javascript, PhP, <br>C and Python.***
+>
+><br>
+><br>
+>
+>### Em estudo:
+>>![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500)
+>>![](https://img.shields.io/badge/--63B8FF?style=for-the-badge-square&logo=css3&logoColor=1C86EE)
+>>![](https://img.shields.io/badge/--purple?style=for-the-badge-square&logo=bootstrap&logoColor=8A2BE2)
+>>
+>>![](https://img.shields.io/badge/--yellow?style=for-the-badge-square&logo=javascript)
+>>![](https://img.shields.io/badge/--9FB6CD?style=for-the-badge-square&logo=PHP&logoColor=9FB6CD)
+>>
+>>
+>>![Python](https://img.shields.io/badge/--blue?style=for-the-badge-square&logo=python&logoColor=FFFF00)
+>>![C](https://img.shields.io/badge/--gray?style=for-the-badge-square&logo=c)
 
-<br>
-<br>
 
-
-### Tecnologias que estudo:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge-square&logo=javascript)
-
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-c-gray?style=for-the-badge-square&logo=c)
-
+### Analytics:
 <hr>
 
 ![Thierry GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
