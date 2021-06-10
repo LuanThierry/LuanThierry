@@ -30,22 +30,22 @@
 >
 >## :panda_face:Sobre:
 >>***aniversário 2/7/2005, <br>Solteiro, <br>SP-zl, <br>Student, <br>Front-End : UX and UI design, HTML, CSS, Bootstrap, <br>Back-End : Javascript, PhP, <br>C and Python.***
->
-><br>
-><br>
->
->### Em estudo:
->>![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500)
->>![](https://img.shields.io/badge/--63B8FF?style=for-the-badge-square&logo=css3&logoColor=1C86EE)
->>![](https://img.shields.io/badge/--purple?style=for-the-badge-square&logo=bootstrap&logoColor=8A2BE2)
->>
->>![](https://img.shields.io/badge/--yellow?style=for-the-badge-square&logo=javascript)
->>![](https://img.shields.io/badge/--9FB6CD?style=for-the-badge-square&logo=PHP&logoColor=9FB6CD)
->>
->>
->>![Python](https://img.shields.io/badge/--blue?style=for-the-badge-square&logo=python&logoColor=FFFF00)
->>![C](https://img.shields.io/badge/--gray?style=for-the-badge-square&logo=c)
+<br>
+<br>
 
+### Em estudo:
+![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500)
+![](https://img.shields.io/badge/--63B8FF?style=for-the-badge-square&logo=css3&logoColor=1C86EE)
+![](https://img.shields.io/badge/--purple?style=for-the-badge-square&logo=bootstrap&logoColor=8A2BE2)
+
+![](https://img.shields.io/badge/--yellow?style=for-the-badge-square&logo=javascript)
+![](https://img.shields.io/badge/--9FB6CD?style=for-the-badge-square&logo=PHP&logoColor=9FB6CD)
+
+![Python](https://img.shields.io/badge/--blue?style=for-the-badge-square&logo=python&logoColor=FFFF00)
+![C](https://img.shields.io/badge/--gray?style=for-the-badge-square&logo=c)
+
+<br>
+<br>
 
 ### Analytics:
 <hr>
