@@ -1,22 +1,36 @@
-### hello visitor:ghost:
+### Hello Visitor:ghost:
+
+<hr>
+<br>
 
 ## Luan Thierry O. Marques
-<a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-FF3E96?style=social-square&labelColor=FF34B3&logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a>
-<a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=social-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a>
+<a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-FF34B3?style=social-square&labelColor=FF3E96&logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a> 
+<a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=social-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a> 
 
-:rose:Meu desejo de alcançar todo o potencial é o progresso, ser bem sucedido é mais uma razão para crescer e conquistar:trophy:.
+<br>
 
-:books:**Sempre procurando por algo novo!!!**
+#### :rose:  __*Meu desejo de alcançar todo o potencial é o progresso, ter sucesso é mais uma razão para crescer e conquistar.*__ :trophy:
 
-:smile:Por que eu gosto de programar?
->Porque na programação eu posso inventar uma maneira de trazer meus pensamentos à vida, isso me incentiva a praticar todos os dias e a melhorar minhas habilidades como desenvolvedor, pra sempre querer saber mais sobre o que vejo e ouço. E também porque há muitas coisas interessantes como as linguagens, as comunidades de desenvolvedores e os programas que são criados, tudo isso é incrível! Se você não gosta de programação, algo muito legal está faltando na sua cabeça!
+<br>
+
+### :books: ***Sempre procurando por alguma novidade!***
+
+<br>
+<br>
+
+>## :smile:Por que gosto de programar?
+>***Na programação posso inventar maneiras para trazer meus pensamentos à vida, isso incentiva a praticar e melhorar minhas habilidades e estar sempre querendo saber mais. <br> <br> Também porque há muitas coisas como as linguagens, comunidades, programas, isso tudo é incrível! Se você não gosta de programação, algo muito legal está faltando em sua mente!***
+> <br>
+> <br>
+> 
+>## :sleepy:O que faço em meu tempo livre?
+>***Em meu tempo livre eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
+
+<br>
+<br>
 
 
-:sleepy:O que gosto de fazer em meu tempo livre?
->No meu tempo livre eu gosto de ler, eu adoro livros onde eu aprenda alguma coisa, eu não saio tanto assim então fico brincando com meu gato.
-
-#### as linguagens de programação que eu uso e pratico mais são C, JavaScript e Python. Gosto de front-end, back-end e quando crescer quero ser Cientista da computação
-### tecnologias que eu ando estudando:
+### Tecnologias que estudo:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge-square&logo=javascript)
@@ -24,23 +38,19 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-c-gray?style=for-the-badge-square&logo=c)
 
-![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-181717?style=for-the-badge-square&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-181717?style=for-the-badge-square&logo=bash)
-![Shell](https://img.shields.io/badge/-Shell-181717?style=for-the-badge-square&logo=shell)
-![Markdown](https://img.shields.io/badge/-Markdown-181717?style=for-the-badge-square&logo=markdown)
-
-<hr />
+<hr>
 
 ![Thierry GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
 
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&theme=material-palenight" alt="LuanThierry" />
+
 <br>
 <br>
 <br>
 <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuanThierry" alt="LuanThierry" /> </p>
 
 <!--
