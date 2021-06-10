@@ -1,7 +1,7 @@
 ### Hello Visitor:ghost:
 <br>
 
-:new_moon_with_face: ***view in the night mode pls***
+:new_moon_with_face: ***view in the dark theme pls***
 <br>
 <br>
 
