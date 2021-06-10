@@ -1,8 +1,5 @@
 ### Hello Visitor:ghost:
 <br>
-
-:new_moon_with_face: ***view in the dark theme pls***
-<br>
 <br>
 
 ## Luan Thierry O. Marques
