@@ -1,6 +1,10 @@
 ### Hello Visitor:ghost:
 <br>
 
+:new_moon_with_face: ***view in the night mode pls***
+<br>
+<br>
+
 ## Luan Thierry O. Marques
 <a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-FF34B3?style=social-square&labelColor=FF3E96&logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a> 
 <a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=social-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a> 
