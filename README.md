@@ -18,7 +18,7 @@
 <br>
 <br>
 
->## :smile:Por que gosto de programar?
+>## :smile:Porque programo?
 >>***Na programação posso inventar maneiras para trazer meus pensamentos à vida, isso incentiva a praticar e melhorar minhas habilidades e estar sempre querendo saber mais. <br> <br> Também porque há muitas coisas como as linguagens, comunidades, programas, isso tudo é incrível! Se você não gosta de programação, algo muito legal está faltando em sua mente!***
 > <br>
 > <br>
