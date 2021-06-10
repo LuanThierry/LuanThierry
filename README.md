@@ -1,6 +1,6 @@
 ### Hello Visitor:ghost:
 
-<hr>
+
 <br>
 
 ## Luan Thierry O. Marques
@@ -19,12 +19,16 @@
 <br>
 
 >## :smile:Por que gosto de programar?
->***Na programação posso inventar maneiras para trazer meus pensamentos à vida, isso incentiva a praticar e melhorar minhas habilidades e estar sempre querendo saber mais. <br> <br> Também porque há muitas coisas como as linguagens, comunidades, programas, isso tudo é incrível! Se você não gosta de programação, algo muito legal está faltando em sua mente!***
+>>***Na programação posso inventar maneiras para trazer meus pensamentos à vida, isso incentiva a praticar e melhorar minhas habilidades e estar sempre querendo saber mais. <br> <br> Também porque há muitas coisas como as linguagens, comunidades, programas, isso tudo é incrível! Se você não gosta de programação, algo muito legal está faltando em sua mente!***
 > <br>
 > <br>
 > 
 >## :sleepy:O que faço em meu tempo livre?
->***Em meu tempo livre eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
+>>***Em meu tempo livre eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
+> <br>
+> <br>
+> 
+>##
 
 <br>
 <br>
