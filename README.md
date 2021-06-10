@@ -23,11 +23,11 @@
 >
 >## :sleepy:Oque gosto?
 >>***Eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando, gosto de parkour e kung fu. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
-
-<br>
-<br>
-<br>
-
+>
+><br>
+><br>
+><br>
+>
 >## :panda_face:Sobre:
 >>***Aniversário 2/7/2005, <br>Solteiro, <br>SP-zl, <br>Student, <br>Front-End : ![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500)
 , ![](https://img.shields.io/badge/--63B8FF?style=for-the-badge-square&logo=css3&logoColor=1C86EE)
