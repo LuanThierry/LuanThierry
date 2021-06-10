@@ -1,6 +1,5 @@
 ### Hello Visitor:ghost:
 
-
 <br>
 
 ## Luan Thierry O. Marques
@@ -22,7 +21,6 @@
 >>***Na programação posso inventar maneiras para trazer meus pensamentos à vida, isso incentiva a praticar e melhorar minhas habilidades e estar sempre querendo saber mais. <br> <br> Também porque há muitas coisas como as linguagens, comunidades, programas, isso tudo é incrível! Se você não gosta de programação, algo muito legal está faltando em sua mente!***
 > <br>
 > <br>
-> 
 >## :sleepy:Oque gosto?
 >>***Eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando, faço parkour também e gosto de kung fu. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
 
@@ -31,7 +29,7 @@
 <br>
 
 >## :panda_face:Sobre:
->>***aniversário 2/7/2005, <br>Solteiro, <br>SP-zl, <br>Student, <br>Front-End : UI design, HTML![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500)
+>>***Aniversário 2/7/2005, <br>Solteiro, <br>SP-zl, <br>Student, <br>Front-End : UI design, HTML![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500)
 , CSS![](https://img.shields.io/badge/--63B8FF?style=for-the-badge-square&logo=css3&logoColor=1C86EE)
 , Bootstrap![](https://img.shields.io/badge/--purple?style=for-the-badge-square&logo=bootstrap&logoColor=8A2BE2)
 , <br>Back-End : Javascript![](https://img.shields.io/badge/--yellow?style=for-the-badge-square&logo=javascript)
@@ -39,11 +37,13 @@
 , <br>C![C](https://img.shields.io/badge/--gray?style=for-the-badge-square&logo=c)
  and Python![Python](https://img.shields.io/badge/--blue?style=for-the-badge-square&logo=python&logoColor=FFFF00)
 .***
+
 <br>
 <br>
 <br>
 
 ### Analytics:
+
 <hr>
 
 ![Thierry GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
