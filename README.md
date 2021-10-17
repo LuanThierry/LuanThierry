@@ -12,18 +12,7 @@
 
 <br>
 
-### :books: ***Sempre procurando por alguma novidade!***
-
-<br>
-<br>
-
-## :smile:Porque programo?
-###### ***Na programação posso inventar maneiras para trazer meus pensamentos à vida, isso incentiva a praticar e melhorar minhas habilidades e estar sempre querendo saber mais. <br> <br> Também porque há muitas coisas como as linguagens, comunidades, programas, isso tudo é incrível! Se você não gosta de programação, algo muito legal está faltando em sua mente!***
-
-<br>
-
-## :sleepy:Oque gosto?
-###### ***Eu gosto de ler, adoro livros onde aprenda algo. Não saio muito então fico brincando com meu gato e estudando, gosto de parkour e kung fu. Hà já ia esquecendo adoro dormir, dormir é uma maravilha!***
+### :books: ***Procurando por novidades!***
 
 <br>
 
