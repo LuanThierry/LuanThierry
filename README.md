@@ -4,7 +4,7 @@
 
 ## Luan Thierry O. Marques
 <a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-FF34B3?style=social-square&labelColor=FF3E96&logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a> 
-<a href="https://discord.gg/bXsyauGnmN">![Discord](https://img.shields.io/badge/-Discord-gray?style=social-square&labelColor=black&logo=discord&logoColor=white&link=https://discord.gg/bXsyauGnmN)</a> 
+<a href="https://www.linkedin.com/in/luantom27">![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=social-square&labelColor=black&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luantom27)</a> 
 
 <br>
 
@@ -27,8 +27,8 @@
 
 <br>
 
-## :panda_face:Sobre:
-###### ***<br>Student, <br>Front-End : ![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500), ![](https://img.shields.io/badge/--63B8FF?style=for-the-badge-square&logo=css3&logoColor=1C86EE), ![](https://img.shields.io/badge/--purple?style=for-the-badge-square&logo=bootstrap&logoColor=8A2BE2), <br>Back-End : ![](https://img.shields.io/badge/--yellow?style=for-the-badge-square&logo=javascript), ![](https://img.shields.io/badge/--9FB6CD?style=for-the-badge-square&logo=PHP&logoColor=9FB6CD), <br>![C](https://img.shields.io/badge/--gray?style=for-the-badge-square&logo=c) and ![Python](https://img.shields.io/badge/--blue?style=for-the-badge-square&logo=python&logoColor=FFFF00).***
+### :panda_face:Learning:
+###### ***![](https://img.shields.io/badge/--FA8072?style=for-the-badge-square&logo=html5&logoColor=FF4500), ![](https://img.shields.io/badge/--63B8FF?style=for-the-badge-square&logo=css3&logoColor=1C86EE), ![](https://img.shields.io/badge/--yellow?style=for-the-badge-square&logo=javascript), ![](https://img.shields.io/badge/--9FB6CD?style=for-the-badge-square&logo=PHP&logoColor=9FB6CD), ![C](https://img.shields.io/badge/--gray?style=for-the-badge-square&logo=c), ![Python](https://img.shields.io/badge/--blue?style=for-the-badge-square&logo=python&logoColor=FFFF00).***
 
 <br>
 <br>
