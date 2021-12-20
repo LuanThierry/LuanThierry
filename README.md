@@ -2,7 +2,6 @@
 - :books: **Estudando : <img align="center" alt="Thierry-CSS" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> e <img align="center" alt="Thierry-JAVASCRIPT" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">**
 - :computer: **Desenvolvedor Front-End Iniciante**
 - :city_sunset: **Itaquera - São Paulo**
-- :heart_decoration: **I like <img src="https://aleen42.github.io/badges/src/tesla.svg">, <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">**
  <p align="right" > <img src="https://komarev.com/ghpvc/?username=LuanThierry" alt="LuanThierry" /> </p>
 
 ##
