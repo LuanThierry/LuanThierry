@@ -12,9 +12,8 @@
 
 ![Thierry GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry)
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&theme=material-palenight)](https://github.com/LuanThierry/github-readme-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&theme=material-palenight" alt="LuanThierry" />
 
 <br>
 <br>
