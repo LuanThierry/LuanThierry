@@ -12,17 +12,7 @@
 
 <div style="display: inline_block"><br> 
 
+<a href="https://www.instagram.com/_luan.thr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luantom27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+
 </div>
-
-##
-
-
-
-
-
-<a href="https://www.linkedin.com/in/luantom27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
-<a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-FF34B3?style=social-square&labelColor=FF3E96&logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a> 
-<a href="https://www.linkedin.com/in/luantom27">![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=social-square&labelColor=black&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luantom27)</a> 
