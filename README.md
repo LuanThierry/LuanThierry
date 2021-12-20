@@ -5,9 +5,9 @@
  <p align="right" > <img src="https://komarev.com/ghpvc/?username=LuanThierry" alt="LuanThierry" /> </p>
 <div align="center" > 
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=blueberry" >
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact)](https://github.com/LuanThierry/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br> 
@@ -23,8 +23,6 @@
 
 
 
-## Luan Thierry O. Marques
+
 <a href="https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j">![Instagram](https://img.shields.io/badge/-Instagram-FF34B3?style=social-square&labelColor=FF3E96&logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/invites/contact/?i=9z0acq63dgbv&amp;utm_content=fp0um4j)</a> 
 <a href="https://www.linkedin.com/in/luantom27">![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=social-square&labelColor=black&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luantom27)</a> 
-<hr>
-
