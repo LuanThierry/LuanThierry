@@ -16,11 +16,12 @@
 
 ##
 
-<div style="display: inline_block"><br> 
+<div align="center"><br> 
  <img height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img height="45" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 
 </div>
