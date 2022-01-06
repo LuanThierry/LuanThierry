@@ -21,7 +21,7 @@
 
 
 <div align="center"><br> 
- <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="60%" height="15%" display="flex" align="right"/> 
+ <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="50%" height="15%" display="flex" align="right"/> 
 <div align="left" > 
  
 |tecnologias|e|ferramentas| 
