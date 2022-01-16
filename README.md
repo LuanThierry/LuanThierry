@@ -10,12 +10,6 @@
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=LuanThierry" alt="LuanThierry" /> </p>
 
 <div align="center" > 
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanThierry&theme=tokyonight"/>
-
- 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&theme=tokyonight">
- 
 </div>
 
 
