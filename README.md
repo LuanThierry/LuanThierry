@@ -21,7 +21,7 @@
 |tecnologias|e|ferramentas| 
 | ------------ |  ----------- | ----------- |
 |<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  align="center">
-|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  align="center">|<img height="60" width="70" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png"  align="center">|
+|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  align="center">|
 |<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  align="center">
  </div>
 </div>
