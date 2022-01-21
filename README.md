@@ -18,10 +18,10 @@
  <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="40%" height="15%"  align="right"/> 
 <div align="left" > 
  
-|tecnologias|e|ferramentas| 
+|tecnologias| & |ferramentas| 
 | ------------ |  ----------- | ----------- |
 |<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  align="center">
-|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  align="center">|
+|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  align="center">|<img height="60" width="85" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/sublime-text-icon.png"  align="center">|
 |<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"  align="center">|<img height="60" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  align="center">
  </div>
 </div>
