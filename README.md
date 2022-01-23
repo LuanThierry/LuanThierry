@@ -2,7 +2,7 @@
 ## Eae pessoal <img height="28" width="28" src="https://github.com/LuanThierry/LuanThierry/blob/master/m%C3%A3ozinha.gif"> Sejam todos bem-vindos!  <img src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif" width="50" height="50"/>
 <div float="left">
  
-- :books: **Estudando e praticando**
+- :books: **Estudando para ser Full stack**
 - :computer: **Desenvolvedor Front-End Iniciante**
 - :city_sunset: **Itaquera - São Paulo**
 </div> 
