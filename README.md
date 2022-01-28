@@ -20,7 +20,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="85" height="85">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  width="85" height="85">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="85" height="85">
- </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  width="85" height="85">
+
+</div>
 </div>
 
 <div style="display: inline_block" align="center"><br> 
