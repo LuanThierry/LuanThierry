@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/LuanThierry">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LuanThierry&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanThierry&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=LuanThierry" alt="LuanThierry" /> </p>
 
